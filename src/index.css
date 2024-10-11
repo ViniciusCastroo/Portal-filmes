@@ -3,5 +3,9 @@
 @tailwind utilities;
 
 .active{
+<<<<<<< HEAD
   border-bottom: 2px solid white;
+=======
+  border-bottom: 2px solid whitesmoke;
+>>>>>>> be6aaa8e68142c9bb4cc9e3cf0e3a17d1c3b1199
 }
